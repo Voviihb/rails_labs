@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74e35664-6259-467b-ba50-24c315361e69" name="Changes" comment="Init">
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/Rakefile" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/Rakefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/app/channels/application_cable/channel.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/app/channels/application_cable/channel.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/app/channels/application_cable/connection.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/app/channels/application_cable/connection.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/app/controllers/factorial_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/app/controllers/factorial_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/app/helpers/application_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/app/helpers/application_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/app/helpers/factorial_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/app/helpers/factorial_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/app/jobs/application_job.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/app/jobs/application_job.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/app/mailers/application_mailer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/app/mailers/application_mailer.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/app/models/application_record.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/app/models/application_record.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/bin/bundle" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/bin/bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/bin/importmap" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/bin/importmap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/bin/rails" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/bin/rails" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/bin/rake" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/bin/rake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/bin/setup" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/bin/setup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/config.ru" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/config.ru" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/config/application.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/config/boot.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/config/boot.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/config/environment.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/config/environment.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/config/environments/development.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/config/environments/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/config/environments/production.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/config/environments/test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/config/environments/test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/config/importmap.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/config/importmap.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/config/initializers/assets.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/config/initializers/assets.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/config/initializers/content_security_policy.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/config/initializers/content_security_policy.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/config/initializers/filter_parameter_logging.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/config/initializers/filter_parameter_logging.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/config/initializers/inflections.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/config/initializers/inflections.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/config/initializers/permissions_policy.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/config/initializers/permissions_policy.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/config/puma.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/config/puma.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/db/seeds.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/test/application_system_test_case.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/test/application_system_test_case.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/test/channels/application_cable/connection_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/test/channels/application_cable/connection_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/test/controllers/factorial_controller_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/test/controllers/factorial_controller_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_labs/lab8/test/test_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_labs/lab8/test/test_helper.rb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../rails_labs/lab8" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2XOelsfWKzHiR2DEex4KWM79XDu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
+    &quot;ruby.structure.view.model.defaults.configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.ruby.settings.RubyModuleStructureConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74e35664-6259-467b-ba50-24c315361e69" name="Changes" comment="" />
+      <created>1698504708005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698504708005</updated>
+      <workItem from="1698504709068" duration="10160000" />
+      <workItem from="1698516664560" duration="192000" />
+      <workItem from="1698516867014" duration="760000" />
+    </task>
+    <task id="LOCAL-00001" summary="Init">
+      <option name="closed" value="true" />
+      <created>1698516811435</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698516811435</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test@factorial_controller.rcov" NAME="factorial_controller Coverage Results" MODIFIED="1698515574930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
+    <SUITE FILE_PATH="coverage/test@user.rcov" NAME="user Coverage Results" MODIFIED="1698505588447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
+  </component>
+</project>
